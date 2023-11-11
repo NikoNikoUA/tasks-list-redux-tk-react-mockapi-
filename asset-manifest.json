@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tasks-list-redux-tk-react-mockapi-/static/css/main.7acaea2f.css",
+    "main.js": "/tasks-list-redux-tk-react-mockapi-/static/js/main.07d3183d.js",
+    "index.html": "/tasks-list-redux-tk-react-mockapi-/index.html",
+    "main.7acaea2f.css.map": "/tasks-list-redux-tk-react-mockapi-/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/tasks-list-redux-tk-react-mockapi-/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
